@@ -10,4 +10,4 @@ maintaining and evolving software.
 ![My Image](aida.jpg) <!-- Link to the uploaded image -->
 ## GitHub Profile
 You can view my personalized GitHub profile
-[hereee](https://github.com/your-github-username).
+[hereee](https://github.com/your-github-username)
